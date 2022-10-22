@@ -1,1 +1,1 @@
-# -typescript-and-vue-workshop
+# typescript-and-vue-workshop
